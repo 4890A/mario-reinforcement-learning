@@ -1,0 +1,28 @@
+{
+  "info": {
+    "death2": {
+      "address": 1827,
+      "type": "=d2"
+    },
+    "death3": {
+      "address": 1989,
+      "type": "=d2"
+    },
+    "hundreds": {
+      "address": 2017,
+      "type": "|d1"
+    },
+    "tens": {
+      "address": 2018,
+      "type": "=i2"
+    },
+    "tenthousands": {
+      "address": 2015,
+      "type": "|i1"
+    },
+    "thousands": {
+      "address": 2016,
+      "type": "|i1"
+    }
+  }
+}
